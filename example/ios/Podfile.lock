@@ -18,7 +18,7 @@ PODS:
     - Braintree/Card
   - Braintree/Venmo (5.6.3):
     - Braintree/Core
-  - BraintreeDropIn (9.4.0):
+  - BraintreeDropIn (9.12.2):
     - Braintree/ApplePay (~> 5.6.1)
     - Braintree/Card (~> 5.6.1)
     - Braintree/Core (~> 5.6.1)
@@ -30,7 +30,7 @@ PODS:
   - flutter_braintree (1.0.0):
     - Braintree/ApplePay (~> 5.6.3)
     - Braintree/PayPal (~> 5.6.3)
-    - BraintreeDropIn (= 9.4.0)
+    - BraintreeDropIn (= 9.12.2)
     - Flutter
 
 DEPENDENCIES:
